@@ -1,0 +1,11 @@
+feature,importance
+num__previous_score,0.34670724515337437
+num__hours_studied,0.34094255237619325
+num__attendance_pct,0.11255094974391666
+num__sleep_hours,0.1000005927314694
+cat__parental_education_High,0.01640545016968348
+cat__parental_education_Low,0.014551449387685737
+cat__extracurricular_Yes,0.012694394339855516
+cat__tutoring_Yes,0.011840662802892426
+cat__tutoring_No,0.011418936019551401
+cat__extracurricular_No,0.010927275020844021

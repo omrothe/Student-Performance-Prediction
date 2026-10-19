@@ -1,0 +1,14 @@
+RUN SUMMARY — Student Performance Prediction
+Dataset is synthetic, generated with NumPy random seed 42.
+Rows before cleaning: 1012
+Rows after cleaning: 1000
+Columns: 9
+Missing cells before: 60
+Missing cells after: 0
+Duplicate rows before: 12
+MAE: 6.2061
+MSE: 61.7777
+RMSE: 7.8599
+R2: 0.5479
+Train rows: 800
+Test rows: 200
